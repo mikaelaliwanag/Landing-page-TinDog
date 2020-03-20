@@ -1,1 +1,1 @@
-# Landing-page-TInDog
+# Landing-page-TinDog
