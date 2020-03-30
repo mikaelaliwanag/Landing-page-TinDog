@@ -2,6 +2,23 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 900;
+    line-height: 1.5; 
+ }
+ 
+ h3 {
+     font-family: 'Montserrat', sans-serif;
+     font-size: 1.5rem; 
+     font-weight: bold;
+ }
+
+ p {
+     color: #8f8f8f;
+ }
+
 #title {
    background-color: #f3556d;
    color: #ffff;
@@ -30,14 +47,6 @@ body {
     font-size: 1.2rem;
 }
 
-/**** Cover ****/
-h1 {
-   font-family: 'Montserrat', sans-serif;
-   font-size: 3.5rem;
-   font-weight: 900;
-   line-height: 1.5; 
-}
-
 /**** Download Buttons ****/
 
 .download-btn {
@@ -47,7 +56,27 @@ h1 {
 /* Title Image */
 
 .title-img {
-    width: 60%;
+    width: 50%;
     transform: rotate(25deg);
-    margin-left: 18%;
+    margin-left: 20%;
 }
+
+/* Features section  */
+
+#features {
+    margin: 5rem;
+    text-align: center;
+}
+ .feature-item {
+    padding: 1.5rem 0;
+ }
+
+.fas {
+    color: #ef8172;
+    padding: 10px 0;
+}
+
+.fas:hover {
+    color: #f34660;
+}
+
