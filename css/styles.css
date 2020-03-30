@@ -4,35 +4,47 @@ body {
 
 #title {
    background-color: #f3556d;
+   color: #ffff;
 }
 
 .container-fluid {
    padding: 3% 15%;
 }
 
+/**** Navigation bar ****/
+.navbar {
+    padding: 0 0 4rem;
+}
+
 .navbar-brand {
     font-family: ubuntu;
-    font-size: 2rem;
-    font-weight: 500;
+    font-size: 2.5rem;
+    font-weight: bold;
 }
 
-.nav-link {
-    margin: auto 25px;
+.nav-item {
+    padding: 0 18px;
 }
 
-.cover {
-    margin-top: 3rem;
+.nav-link{
+    font-size: 1.2rem;
 }
+
+/**** Cover ****/
 
 .iphone-img {
     
 }
 
 h1 {
-   color: #ffff;
    font-family: 'Montserrat', sans-serif;
    font-size: 3rem;
    font-weight: 900;
    line-height: 1.5; 
-   margin-bottom: 2rem;
+}
+
+/**** Download Buttons ****/
+
+.download-btn {
+    margin: 5% 4% 5% 0;
 }
