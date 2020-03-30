@@ -1,0 +1,38 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+   background-color: #f3556d;
+}
+
+.container-fluid {
+   padding: 3% 15%;
+}
+
+.navbar-brand {
+    font-family: ubuntu;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.nav-link {
+    margin: auto 25px;
+}
+
+.cover {
+    margin-top: 3rem;
+}
+
+.iphone-img {
+    
+}
+
+h1 {
+   color: #ffff;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 3rem;
+   font-weight: 900;
+   line-height: 1.5; 
+   margin-bottom: 2rem;
+}
