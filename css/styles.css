@@ -31,14 +31,9 @@ body {
 }
 
 /**** Cover ****/
-
-.iphone-img {
-    
-}
-
 h1 {
    font-family: 'Montserrat', sans-serif;
-   font-size: 3rem;
+   font-size: 3.5rem;
    font-weight: 900;
    line-height: 1.5; 
 }
@@ -46,5 +41,13 @@ h1 {
 /**** Download Buttons ****/
 
 .download-btn {
-    margin: 5% 4% 5% 0;
+    margin: 1.5rem 1rem 2rem 0;
+}
+
+/* Title Image */
+
+.title-img {
+    width: 60%;
+    transform: rotate(25deg);
+    margin-left: 18%;
 }
