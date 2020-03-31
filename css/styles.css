@@ -91,7 +91,7 @@ h1 {
 #testimonials {
     background-color: #f38172;
     color: #fff;
-    padding: 5rem 7rem 3rem;
+    
     text-align: center;
 }
 
@@ -99,6 +99,10 @@ h1 {
     border-radius: 100%;
     width: 12%;
     margin: 1rem;
+}
+
+.carousel-item {
+    padding: 5rem 7rem 3rem;
 }
 
 /* Press */
