@@ -87,3 +87,28 @@ h1 {
 }
 
 /**** Testimonials ****/
+
+#testimonials {
+    background-color: #f38172;
+    color: #fff;
+    padding: 5rem 7rem 3rem;
+    text-align: center;
+}
+
+.testimonial-img {
+    border-radius: 100%;
+    width: 12%;
+    margin: 1rem;
+}
+
+/* Press */
+#press {
+    background-color: #f38172;
+    text-align: center; 
+    padding-bottom: 3rem;
+}
+
+.press-logo {
+    width: 13%;
+    margin: auto 25px;
+}
