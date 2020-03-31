@@ -116,3 +116,17 @@ h1 {
     width: 13%;
     margin: auto 25px;
 }
+
+/* Pricing */
+#pricing {
+    padding: 80px 100px;
+    text-align: center;
+}
+
+.pricing-card {
+    padding: 3rem .5rem;
+}
+
+.card {
+    margin: 0 25px;
+}
