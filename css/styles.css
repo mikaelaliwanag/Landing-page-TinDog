@@ -127,10 +127,34 @@ h1 {
 }
 
 .pricing-card {
-    padding: 3rem .5rem;
+    padding: 2rem .5rem;
 }
 
 .card {
     margin: 0 25px;
 }
 
+/* Media Query */
+@media (max-width: 1300px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-img {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+/* Call to action */
+#cta {
+    color: #fff;
+    background-color: #ec3954;
+    text-align: center;
+}
+
+/* Footer */
+#footer {
+    background-color: #fff;
+    text-align: center;
+}
