@@ -25,8 +25,8 @@ h1 {
  }
 
 #title {
-   background-color: #ec3954;
-   color: #ffff;
+   background-color: #ff3a57;
+   color: #fff;
 }
 
 .container-fluid {
@@ -87,7 +87,7 @@ h1 {
 }
 
 .fas:hover {
-    color: #ec3954;
+    color: #ff3a57;
 }
 
 /**** Testimonials ****/
@@ -134,6 +134,32 @@ h1 {
     margin: 0 25px;
 }
 
+/* Call to action */
+#cta {
+    background-color: #ff3a57;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-heading {
+    font-size: 3rem;
+    font-weight:900;
+    padding: 30px;
+}
+
+/* Footer */
+#footer {
+    background-color: #fff;
+    text-align: center;
+    padding: 5% 15% 3%;
+}
+
+.link-icons {
+    color: #333131;
+    margin: 20px 10px 35px;
+}
+
 /* Media Query */
 @media (max-width: 1300px) {
     #title {
@@ -146,15 +172,3 @@ h1 {
     }
 }
 
-/* Call to action */
-#cta {
-    color: #fff;
-    background-color: #ec3954;
-    text-align: center;
-}
-
-/* Footer */
-#footer {
-    background-color: #fff;
-    text-align: center;
-}
