@@ -138,7 +138,7 @@ h1 {
 #cta {
     background-color: #ff3a57;
     color: #fff;
-    padding: 7% 15%;
+    padding: 8% 16%;
     text-align: center;
 }
 
@@ -152,12 +152,11 @@ h1 {
 #footer {
     background-color: #fff;
     text-align: center;
-    padding: 5% 15% 3%;
+    padding: 5% 12% 3%;
 }
 
 .link-icons {
-    color: #333131;
-    margin: 20px 10px 35px;
+    margin: 20px 10px 30px;
 }
 
 /* Media Query */
