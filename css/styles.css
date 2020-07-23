@@ -93,7 +93,7 @@ p {
 }
 
 .icon {
-	color: #f38172;
+	color: #f74c66;
 	margin-bottom: 1rem;
 }
 
@@ -104,7 +104,7 @@ p {
 /**** Testimonials ****/
 
 #testimonials {
-	background-color: #ff3a57;
+	background-color: #f74c66;
 }
 
 .testimonial-text {
@@ -120,7 +120,7 @@ p {
 
 /**** Press ****/
 #press {
-	background-color: #ff3a57;
+	background-color: #f74c66;
 	padding-bottom: 3rem;
 }
 
